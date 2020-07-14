@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Calorie Calculator</string>
+
+    <string-array name="ageSpinner">
+        <item>19 - 30 yrs</item>
+        <item>2 - 3 yrs</item>
+        <item>4 - 8 yrs</item>
+        <item>9 - 13 yrs</item>
+        <item>14 - 18 yrs</item>
+        <item>31 - 50 yrs</item>
+        <item>50+ yrs</item>
+    </string-array>
+
+    <string-array name="sexSpinner">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="activitySpinner">
+        <item>Sedentary</item>
+        <item>Moderate</item>
+        <item>Active</item>
+    </string-array>
+
+</resources>
